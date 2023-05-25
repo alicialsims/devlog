@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Alicia's Devlog
 ---
 
-This is just a test
+
